@@ -1,0 +1,5 @@
+    Employee,Andrew,Fuller
+    Employee ,Text ,TextText ,Texttt
+    Category,Beverages, Soft drinks
+    Order,10248,Vins et alcools Chevalier
+    Product,Chai,10 boxes x 20 bags
